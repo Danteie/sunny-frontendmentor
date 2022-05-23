@@ -1,0 +1,56 @@
+.article-text{
+    padding: 10em;
+}
+
+.article-title{
+    font-family: 'Fraunces', serif;
+    font-size: 2.6rem;
+}
+
+.article-p{
+    font-size: 1.1rem;
+    line-height: 1.8em;
+}
+
+.article-learn{
+    color: black;
+    font-size: 1.3rem;
+    font-weight: bold;
+    position: absolute;
+}
+
+.red{
+    text-decoration: none;
+}
+
+.red::after{
+  content: '';
+  height: 8px;
+  background: red;  
+  border-radius: 15px;
+  display: block;
+  position: relative;
+  bottom: 8px;
+  right: 5px;
+  opacity: 0.3;
+  width: 110%;
+  text-align: center;
+}
+
+.yellow{
+    text-decoration-color: yellow;
+}
+
+.yellow::after{
+    content: '';
+    height: 8px;
+    background: yellow;  
+    border-radius: 15px;
+    display: block;
+    position: relative;
+    bottom: 8px;
+    right: 5px;
+    opacity: 0.3;
+    width: 110%;
+    text-align: center;
+  }

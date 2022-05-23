@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    padding: 1.5em;
+}
+
+nav>a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.contact{
+    background-color: white;
+    padding: 1em;
+    border-radius: 15px;
+    color: black;
+}

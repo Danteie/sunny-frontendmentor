@@ -1,0 +1,13 @@
+.social{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding-bottom: 5rem;
+}
+
+.social-icon{
+    width: 30px;
+    height: 30px;
+    color: hsl(212, 27%, 19%);
+    opacity: 0.6;
+}

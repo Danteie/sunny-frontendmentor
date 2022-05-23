@@ -1,0 +1,22 @@
+.client-card{
+    margin: 0 10px 0 10px;
+}
+
+.profile-image{
+    border-radius: 50%;
+    width: 4.3em;
+    height: 4.3em;
+    margin-bottom: 3em;
+}
+
+.comment-text{
+    margin-bottom: 3.5em;
+    line-height: 1.6;
+    font-size: 1.2rem;
+}
+
+.client-card-name{
+    font-size: 1.2rem;
+    font-family: 'Fraunces', serif;
+    margin-bottom: 0.5em;
+}

@@ -1,0 +1,39 @@
+.background1{
+    background-image: url('./image-graphic-design.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.background2{
+    background-image: url('./image-photography.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.cardText{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: flex-end;
+    width: 100%;
+    height: 100%;
+}
+
+.cardText >p{
+    margin: 2rem 10rem 5rem 10rem;
+}
+
+.card-title{
+    font-family: 'Fraunces', serif;
+    font-size: 1.9rem;
+}
+
+.card-text{
+    line-height: 1.6;
+    opacity: 0.5;
+    
+}
