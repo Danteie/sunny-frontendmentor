@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "38528ddfa4adf55fb1dc",
-    "url": "/sunny-frontendmentor/static/css/main.a765a6b1.chunk.css"
+    "revision": "021058becbe040403db2",
+    "url": "/sunny-frontendmentor/static/css/main.e5f83308.chunk.css"
   },
   {
-    "revision": "38528ddfa4adf55fb1dc",
-    "url": "/sunny-frontendmentor/static/js/main.38528ddf.chunk.js"
+    "revision": "021058becbe040403db2",
+    "url": "/sunny-frontendmentor/static/js/main.021058be.chunk.js"
   },
   {
     "revision": "4f473d823a9b02f8d234",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/sunny-frontendmentor/static/media/image-photography.ed3c6053.jpg"
   },
   {
-    "revision": "a7b49d250394633fdc8a980f359a18c3",
+    "revision": "5f08de00c473cd1a100d34444389dc1d",
     "url": "/sunny-frontendmentor/index.html"
   }
 ];
