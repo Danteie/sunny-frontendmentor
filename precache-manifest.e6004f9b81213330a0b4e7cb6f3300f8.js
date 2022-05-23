@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/sunny-frontendmentor/static/media/image-header.ff7d0ec7.jpg"
   },
   {
-    "revision": "ed3c6053572c6ebe05f14c342af4c37a",
-    "url": "/sunny-frontendmentor/static/media/image-photography.ed3c6053.jpg"
-  },
-  {
     "revision": "e5f5a3b741ae44045f1f30234cc0ea8c",
     "url": "/sunny-frontendmentor/static/media/image-graphic-design.e5f5a3b7.jpg"
+  },
+  {
+    "revision": "ed3c6053572c6ebe05f14c342af4c37a",
+    "url": "/sunny-frontendmentor/static/media/image-photography.ed3c6053.jpg"
   },
   {
     "revision": "a7b49d250394633fdc8a980f359a18c3",

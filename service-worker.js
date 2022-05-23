@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sunny-frontendmentor/precache-manifest.ae5f38744678fe2c545a235dae16767f.js"
+  "/sunny-frontendmentor/precache-manifest.e6004f9b81213330a0b4e7cb6f3300f8.js"
 );
 
 workbox.clientsClaim();
